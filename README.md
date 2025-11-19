@@ -15,6 +15,11 @@ The entire workflow is designed to be run inside Google Colab, and each notebook
 - ⚽ Analytics Output: Movement patterns, team visibility, coarse movement pattern, average on-screen position
 
 # 🚀 How to Run (Google Collab)
-- 
+- Clone the repository ()
+- Upload the project folder (soccer-player-tracking) into: My Drive/Colab Notebooks/
+- Make sure your structure looks like this:
+<img width="538" height="259" alt="image" src="https://github.com/user-attachments/assets/b6273f8e-a45b-4205-b262-56c8ecee5b87" />
+
+
 
 
