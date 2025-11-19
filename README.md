@@ -5,6 +5,6 @@
 # 📝 Overview
 This project provides a lightweight, low-cost pipeline for soccer player tracking and team classification using only broadcast highlight videos. The system uses YOLOv8 for player detection, ByteTrack for multi-object tracking, and KMeans clustering on HSV jersey colors with a majority-based correction for team classification. Simple preprocessing steps (i.e., frame skipping, field masking, and session segmentation) enable robust performance even under challenging broadcast conditions.
 
-The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (no manual setup or pip install -r requirements.txt is required).
+The entire workflow is designed to be run inside Google Colab, and each notebook already includes an Install Libraries section (**no manual setup or pip install -r requirements.txt is required**).
 
 
